@@ -1,2 +1,2 @@
 # App web Rock Paper or Scissor
-Game with javascript
+Game with vanilla js
