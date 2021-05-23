@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+    font-family: 'Open Sans';
+    font-weight: 400;
+}
+
+html,body {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    background-color: #333;
+}
+
+header {
+    background-color: rgb(0, 81, 255);
+    text-align: center;
+    padding: 13px;
+}
+
+header h1 {
+    font-weight: 700;
+    word-spacing: 3px;
+}
+
+header i {
+    margin: 0 5px 0 7px;
+}
+
+.player-options img,.enemy-options img {
+    max-width: 200px;
+    opacity: 0.3;
+    cursor: pointer;
+}
+
+.player-options,.enemy-options {
+    width: 50%;
+}
+
+.center {
+    display: flex;
+    margin: 0 auto;
+    max-width: 1000px;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.center div {
+    max-width: 200px;
+}
+
+h2 {
+    text-align: center;
+    padding: 20px;
+}
+
