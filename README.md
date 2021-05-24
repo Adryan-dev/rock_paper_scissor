@@ -1,2 +1,2 @@
 # rock_paper_scissor
-Game with javascript
+Game was created with Vanilla javascript!
